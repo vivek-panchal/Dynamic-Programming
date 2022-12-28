@@ -1,3 +1,4 @@
+// traverse given array from begin and one from end and find longest incresing subsequence and Than find maxi using given formula 
 #include<bits/stdc++.h>
 int longestBitonicSequence(vector<int>& arr, int n) {
     vector<int> dp1(n,1);
